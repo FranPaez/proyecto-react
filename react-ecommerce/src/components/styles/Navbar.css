@@ -1,0 +1,23 @@
+.d-flex{
+    margin-right: 21rem;
+}
+
+.nav-link {
+    color: #ffffff !important;
+}
+
+.NavLink-custom {
+    color: black;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    margin: 7px;
+    justify-content: center;
+}
+
+.NavLink-custom-title{
+    color: white;
+    text-decoration: none;
+    font-size: 1.3rem;
+    margin: 10px;
+}

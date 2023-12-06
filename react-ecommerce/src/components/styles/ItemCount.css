@@ -1,0 +1,11 @@
+
+.itemCount__container{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.itemCount__p{
+    color: white;
+}

@@ -1,0 +1,26 @@
+.carTitle{
+    margin-top: 6rem; 
+    margin-bottom: 4rem;
+    text-align: center;
+    color: white;
+    letter-spacing: 0.15rem;
+    text-shadow: 0 2px 0.56rem #CCCCCC;
+}
+
+.table__img{
+    width: 10px;
+    height: 10px;
+}
+
+.totalBuy{
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-shadow: 0 2px 0.56rem #CCCCCC;
+    margin-left: 15rem;
+}
+
+.btns {
+    margin: 0 !important;
+    margin-bottom: 4rem !important;
+}

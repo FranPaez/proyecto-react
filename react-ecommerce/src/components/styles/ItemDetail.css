@@ -1,0 +1,45 @@
+.card_container_detail {
+    display: flex;
+    justify-content: center;
+    margin-top: 6rem;
+    align-items: center; 
+    width: 18rem;
+    height: 35.5rem;
+}
+
+.card_container_detail .card { 
+    align-items: center;
+    border: 1px solid #22E100;
+    border-radius: 10px;
+    transition: transform 0.3s;
+    color: #fff;
+}
+
+
+.card_container_detail .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px #22E100;
+}
+
+.card_container_detail .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.bnt__edit{
+    align-items: center;
+    justify-content: center;
+}
+
+.img__size{
+    width: 150px !important;
+    height: 150px !important;
+}
+
+
+.itemCount__p{
+    color: white;
+    width: 10px;
+    height: 15px;
+}

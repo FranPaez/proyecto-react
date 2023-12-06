@@ -1,0 +1,17 @@
+
+.form__text{
+    color: white;
+}
+
+.form__subtitle{
+    color: white;
+}
+
+.form-sections {
+    display: flex;
+    justify-content: center;
+}
+
+.payments__btn{
+    margin: 2rem;
+}

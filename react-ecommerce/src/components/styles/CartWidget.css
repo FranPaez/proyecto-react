@@ -1,0 +1,25 @@
+.car__container{
+    display: flex;
+    align-items: center;
+    margin-right: 4rem;
+}
+
+.nav__car{
+    display: grid;
+    cursor: pointer;
+    height: 3rem;
+    transition: all (0.3s);
+}
+
+.nav__car:hover{
+    transform: scale(1.2);
+}
+
+.car__count{
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    font-family: 'Handjet', cursive;
+    font-family: 'PT Serif', serif;
+    font-family: 'Tektur', cursive;
+}

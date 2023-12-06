@@ -1,0 +1,48 @@
+.divisorgap{
+    padding-bottom: 2rem;
+}
+
+.textTitle__preg{
+    margin-top: 6rem; 
+    margin-bottom: 4rem;
+    text-align: center;
+    color: white;
+    letter-spacing: 0.15rem;
+    text-shadow: 0 2px 0.56rem #CCCCCC;
+}
+
+.preg__list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    box-shadow: 0 1px 0.5rem #CCCCCC;
+    width: 90vw;
+    text-align: center;
+    border-radius: 0.8rem;
+    border: solid 1px white;
+    margin: 1rem auto 1rem auto;
+    padding: 0.3rem;
+    cursor: pointer;
+}
+
+.preg__list:hover{
+    color:black;
+}
+
+.rta__list{
+    color: white;
+    text-align: center;
+    max-width: 90vw;
+    margin: 0 auto;
+}
+
+.lista__list li{
+    max-width: 90vw;
+    text-align: center;
+    margin: 0 auto;
+    list-style: none;
+    color: white;
+}

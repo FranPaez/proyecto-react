@@ -1,0 +1,47 @@
+.mx-auto{
+    height: 1rem;
+    margin: 0;
+    border: 0;
+}
+
+.list-group-flush{
+    border: 0;
+}
+
+.h-100{
+    gap: 1rem;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    width: 20rem;
+    height: 40rem;
+}
+
+.card-container .card {
+    width: 1800rem;
+    border: 1px solid #22E100;
+    border-radius: 10px;
+    transition: transform 0.3s;
+    color: #fff;
+}
+
+
+.card-container .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.card-container .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+
+.bnt__edit{
+    align-items: center;
+    justify-content: center;
+}
